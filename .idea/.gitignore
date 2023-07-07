@@ -1,0 +1,33 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Dossiers spécifiques à IntelliJ
+.idea/
+*.iml
+out/
+
+# Répertoire node_modules
+node_modules/
+
+# Fichiers de configuration d'IntelliJ
+*.ipr
+*.iws
+*.iws
+*.iml
+*.xml
+*.properties
+
+# Fichiers de sauvegarde
+*~
+*.swp
+
+# Fichiers de log
+*.log
+
+# Fichiers de cache
+.caches/
