@@ -1,6 +1,10 @@
 {
   "name": "tp_devops",
   "version": "1.0.0",
-  "dependencies": {
+  "devDependencies": {
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "mocha tests/"
   }
 }
